@@ -12,4 +12,4 @@ jobs:
           token: ${{ github.token }}
           title: Simple test issue
           body: my new issue
-          assignee: git-madhu,srkambham,Sunil0916
+          assignees: git-madhu,srkambham,Sunil0916
